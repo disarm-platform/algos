@@ -1,81 +1,81 @@
 [
   {
-    "﻿function_name": "fn-adaptive-sampling",
+    "function_name": "fn-adaptive-sampling",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-adaptive-sampling"
   },
   {
-    "﻿function_name": "fn-bvbd",
+    "function_name": "fn-bvbd",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-bvbd"
   },
   {
-    "﻿function_name": "fn-bvbd-forecast",
+    "function_name": "fn-bvbd-forecast",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-bvbd-forecast"
   },
   {
-    "﻿function_name": "fn-covariate-extractor",
+    "function_name": "fn-covariate-extractor",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-covariate-extractor"
   },
   {
-    "﻿function_name": "fn-cv-ml",
+    "function_name": "fn-cv-ml",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-cv-ml"
   },
   {
-    "﻿function_name": "fn-dbscan-clusterer",
+    "function_name": "fn-dbscan-clusterer",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-dbscan-clusterer"
   },
   {
-    "﻿function_name": "fn-ppmify",
+    "function_name": "fn-ppmify",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-ppmify"
   },
   {
-    "﻿function_name": "fn-prevalence-predictor",
+    "function_name": "fn-prevalence-predictor",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-prevalence-predictor"
   },
   {
-    "﻿function_name": "fn-prevalence-predictor-spamm",
+    "function_name": "fn-prevalence-predictor-spamm",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-prevalence-predictor-spaMM"
   },
   {
-    "﻿function_name": "fn-raster-vector-summary-stats-enhanced",
+    "function_name": "fn-raster-vector-summary-stats-enhanced",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-raster-vector-summary-stats-enhanced"
   },
   {
-    "﻿function_name": "fn-village-finder",
+    "function_name": "fn-village-finder",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-village-finder"
   },
   {
-    "﻿function_name": "request-monkey",
+    "function_name": "request-monkey",
     "image": null,
     "repo": "https://github.com/locational/request-monkey"
   },
   {
-    "﻿function_name": "cows",
+    "function_name": "cows",
     "image": "alexellis2/ascii-cows-openfaas:0.1",
     "repo": null
   },
   {
-    "﻿function_name": "fn-prevalence-predictor-mgcv",
+    "function_name": "fn-prevalence-predictor-mgcv",
     "image": null,
     "repo": "https://github.com/disarm-platform/fn-prevalence-predictor-mgcv"
   },
   {
-    "﻿function_name": "longrun",
+    "function_name": "longrun",
     "image": null,
     "repo": "https://github.com/onlyjsmith/longrun"
   },
   {
-    "﻿function_name": "plus-1-redeployable",
+    "function_name": "plus-1-redeployable",
     "image": "onlyjsmith/plus-1:latest",
     "repo": null
   }
